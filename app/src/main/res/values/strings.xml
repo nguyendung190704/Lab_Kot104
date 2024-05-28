@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab_Kot104</string>
+    <string name="title_activity_bai1">bai1</string>
+    <string name="title_activity_bai2">bai2</string>
+    <string name="title_activity_bai3">bai3</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_seat_composable.kt">SeatComposable.kt</string>
+    <string name="title_activity_seat_composable">SeatComposable</string>
+    <string name="title_activity_cinema_seat_booking">CinemaSeatBooking</string>
+    <string name="title_activity_theater_seating_util">TheaterSeatingUtil</string>
+</resources>
