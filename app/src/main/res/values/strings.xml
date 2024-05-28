@@ -8,4 +8,5 @@
     <string name="title_activity_seat_composable">SeatComposable</string>
     <string name="title_activity_cinema_seat_booking">CinemaSeatBooking</string>
     <string name="title_activity_theater_seating_util">TheaterSeatingUtil</string>
+    <string name="title_activity_nav_app">NavAPP</string>
 </resources>
